@@ -2,7 +2,6 @@ import React, { useRef, useState } from 'react';
 import './App.css';
 
 import firebase from 'firebase/compat/app';
-import ScrollToBottom from 'react-scroll-to-bottom';
 import 'firebase/compat/firestore';
 import 'firebase/compat/auth';
 import 'firebase/compat/analytics';
